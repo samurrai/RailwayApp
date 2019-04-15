@@ -1,0 +1,16 @@
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\bin\Debug\RailwayApp.exe.config
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\bin\Debug\RailwayApp.exe
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\bin\Debug\RailwayApp.pdb
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\bin\Debug\EntityFramework.dll
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\bin\Debug\EntityFramework.xml
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\obj\Debug\RailwayApp.csprojAssemblyReference.cache
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\obj\Debug\RailwayApp.csproj.CoreCompileInputs.cache
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\obj\Debug\RailwayApp.csproj.CopyComplete
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\obj\Debug\RailwayApp.exe
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\obj\Debug\RailwayApp.pdb
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\obj\Debug\RailwayApp.Migrations.InitialCreate.resources
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\obj\Debug\RailwayApp.csproj.GenerateResource.cache
+C:\Users\ШадикьянР\source\repos\RailwayApp\RailwayApp\obj\Debug\RailwayApp.Migrations.firstmigraton.resources
